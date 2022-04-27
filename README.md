@@ -26,3 +26,4 @@ An[7:0]-anode(8-bit)
 Seg[6:0]-cathode(7-bit)
 Clock-clk
 
+https://www.youtube.com/shorts/G9L7EtFmp0c
